@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="utf-8">
+    <link rel="icon" href="../src/img/favicon.png">
+    <title>Recent</title>
+    <link href="../src/css/style.css" rel="stylesheet">
+    <script src="https://code.iconify.design/1/1.0.6/iconify.min.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+ 
+</head>
+
+<style>
+
+    </style>
+
+<body>
+<noscript>Linq by Lambda is powered by JavaScript. You need to enable JavaScript to run this app.</noscript>
+<div class="wrapper">
+    
+    <div class="sidenav">
+        <div class='profile'>
+            <img class="rounded-circle z-depth-2" src="../src/img/1.jpg">
+            <p>Usero Testina</p>
+        </div>
+        <a href="#about">Dashboard</a>
+        <a href="#services">User Preferences</a>
+        <a href="#clients">Manage Keywords</a>
+      </div>
+</div>
+</div>
+
+<div class="post">
+
+                    <div class="card gedf-card">
+                        <div class="card-header">
+                            <div class="d-flex justify-content-between align-items-center">
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <div class="mr-2">
+                                        <img class="rounded-circle" width="45" src="https://picsum.photos/50/50" alt="">
+                                    </div>
+                                    <div class="ml-2">
+                                        <div class="h5 m-0">@LeeCross</div>
+                                        <div class="h7 text-muted">Miracles Lee Cross</div>
+                                    </div>
+                                </div>
+
+                            </div>
+    
+                        </div>
+                        <div class="card-body">
+                            <div class="text-muted h7 mb-2"> <i class="fa fa-clock-o"></i> 40 minutes ago</div>
+                            <a class="card-link" href="#">
+                                <h5 class="card-title">Totam non adipisci hic! Possimus ducimus amet, dolores illo ipsum quos
+                                    cum.</h5>
+                            </a>
+    
+                            <p class="cardtext">
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam sunt fugit reprehenderit consectetur exercitationem odio,
+                                quam nobis? Officiis, similique, harum voluptate, facilis voluptas pariatur dolorum tempora sapiente
+                                eius maxime quaerat.
+                            </p>
+                        </div>
+                        <div class="card-footer">
+                            <a href="#" class="card-link"><i class="fa fa-gittip"></i> Like</a>
+                            <a href="#" class="card-link"><i class="fa fa-comment"></i> Comment</a>
+                            <a href="#" class="card-link"><i class="fa fa-mail-forward"></i> Share</a>
+                        </div>
+                    </div>
+
+</div>
+</div>
+<div class="header1">
+    <button type="button" class="btn btn-outline-dark">Recent</button>
+    <button type="button" class="btn btn-outline-dark">Keyword</button>
+</div>
+
+</body>
